@@ -1,5 +1,5 @@
 
-![Screenshot 2023-06-21 183136](https://github.com/nisha710/Travel_Planner/assets/69087895/29c75d63-12ef-42d1-8ace-0859d62ae1e2)
+![Screenshot 2023-06-21 183136](https://github.com/nisha710/Travel_Planner/assets/69087895/57e515f1-30eb-4e2e-b804-3e4038b54ff1)
 
 The project is a travel planner app that has an admin login as well as a user login .This application helps a user to plan a 
 trip according to their preference for the routes i.e once user enters start location and destination they can choose a preferable 
