@@ -4,16 +4,14 @@ import java.util.*;
 
 class City{
 	String city;
-	static LinkedList<Routes> routes;
+	LinkedList<Routes> routes;
 	int flag=0;
 	//Constructor of class City	
 	City(String city){
 		this.city = city;
 		this.routes = new LinkedList<Routes>();
 	}
-	City(){
-		
-	}
+
 	public void addRoutes(City endCity,Integer busDist,Integer trainDist,Integer busCost,
 			Integer trainCost,Integer busTime,Integer trainTime) {
 		this.routes.add(new Routes(this,endCity,busDist,trainDist,busCost,trainCost,busTime,trainTime));
@@ -78,15 +76,3 @@ class City{
 
 }
 
-//public class Main {
-//	public static void main(String[]args) {
-//		int login;
-//		String inputCity=null;
-//		Scanner scn = new Scanner(System.in);
-//		City c = new City(inputCity);
-//		System.out.println("WELCOME TO TRAVEL PLANNER");
-//		System.out.println("1.User Login");
-//		System.out.println("2.Admin Login");
-//		login = scn.nextInt();
-//	}
-//}
