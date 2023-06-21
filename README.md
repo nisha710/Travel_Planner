@@ -11,3 +11,7 @@ The project consists of different data structures like Graph , Linked List ,and 
 cities that act like vertices and the routes as edges. The main aim is to show the connections between cities for minimum cost, time and distance. 
 We have implemented the Dijkstra algorithm using priority queue for finding the routes with optimal cost, time and distance. 
 We have created linked list of trips which stores the passenger information and the previous trips they have travelled.
+
+
+Video Link:
+https://drive.google.com/drive/folders/1swolOmOSgF7NT01Ja-H4AfnRhz7W2zJx?usp=sharing
